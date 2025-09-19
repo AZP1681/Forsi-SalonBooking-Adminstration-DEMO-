@@ -33,8 +33,8 @@ A full-stack booking system for beauty salons with:
  {<--Admin's Desktop-->}
   - Price and details management for services (Name, description, category etc...)
   - Admin can modify and add staffs' details and services they perform.
-  - Admin can modify and manage each staffs' extra charges on every one of services
-  - Admin can modify and add staffs' work-day and available hours(off day included).
+  - Modify and manage each staffs' extra charges on every one of services
+  - Modify and add staffs' work-day and available hours(off day included).
   - Admin can view all of the appointments.
   - Admin can see service details, staff, time and customer contact informations of each appointment.
   - Admin can either reject or accept the appointments.
