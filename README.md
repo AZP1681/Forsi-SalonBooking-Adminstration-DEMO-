@@ -11,9 +11,9 @@ A full-stack booking system for beauty salons with:
  **Tauri Desktop App** (staff and services management for salon administrators)
 
 ## Project Structure ##
-- `/Forsi` → Vue.js customer-facing website !!!**Request Access for source code**!!!
-- `/Forsi-backend` → Laravel API !!!**Request Access for source code**!!!
-- `/forsi-admin` → Tauri desktop client !!!**Request Access for source code**!!!
+- `/Forsi` → Vue.js customer-facing website  !!!!**Request Access for source code**!!!!
+- `/Forsi-backend` → Laravel API  !!!!**Request Access for source code**!!!!
+- `/forsi-admin` → Tauri desktop client  !!!!**Request Access for source code**!!!!
 
 - `/preview-images` → Screenshots & preview images (DEMO screenshots)
 
