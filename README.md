@@ -68,5 +68,5 @@ View all Screenshots at  `/preview-images`
 !!!! ** Request Access for source codes ** !!!!
  - Email: ayzune.lovmusic@gmail.com
  - Phone: +95-09960084000, +95-09758186711
- - *This project is private property. Thus, accessibility has been limited*
+ - *This project is considered as a private property. Thus, all rights are reserved and accessibility has been limited*
 
