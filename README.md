@@ -24,9 +24,9 @@ A full-stack booking system for beauty salons with:
  {<--Website-->}
   - Customer Book with Multiple Services (each service's price varies).
   - Customer can Add Guests and Select Services that each person will receive.
-  - Customer Choose desired staff (among many staffs who perform selected services).
-  - If no staff alone performs all of the services that customer chose, group of staffs will be formed.
-  - Customer make appointment on available date & time (among selected staff's work hours).
+  - Customers can choose a preferred staff member (from staff who perform the selected services).
+  - If no single staff member performs all selected services, a group of staff will be automatically assigned.
+  - Customer make appointment on available date & time within the staff’s work hours.
   - Real-time price and extra-charges(depending on staff) calculations.
   - Customer fills their contacts, address and informations safely to make an appointment.
 
