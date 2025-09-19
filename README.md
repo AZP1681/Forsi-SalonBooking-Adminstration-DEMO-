@@ -1,4 +1,4 @@
-# Forsi-SalonBooking-Adminstration-DEMO-
+# Forsi-SalonBooking-Adminstration-DEMO
 
 Beauty Salon Booking & Management System – A full-stack portfolio project I built entirely by myself, from design to database.
 Client-side(Website) and Admin-side(Desktop App).
