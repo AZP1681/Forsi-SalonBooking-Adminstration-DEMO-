@@ -10,16 +10,40 @@ A full-stack booking system for beauty salons with:
  **Vue.js Frontend** (customer booking interface)
  **Tauri Desktop App** (staff and services management for salon administrators)
 
-## Project Structure ##
+## ⚙ Project Structure ##
 - `/Forsi` → Vue.js customer-facing website  !! { ***Request Access for source code*** } !!
 - `/Forsi-backend` → Laravel API  !! { ***Request Access for source code*** } !!
 - `/forsi-admin` → Tauri desktop client  !! { ***Request Access for source code*** } !!
 
 - `/preview-images` → Screenshots & preview images (DEMO screenshots)
 
----
 
-## Features & Steps ##
+--------------------------------------------------------------
+
+## 🗃 Tech Stack  ##
+- Laravel 12 + PostgreSQL
+- Vue 3 + Pinia + VueRouter
+- Tauri (Rust + JS)
+
+--------------------------------------------------------------
+## 🎥 Screenshots ##
+View all Screenshots at  `/preview-images`
+- **Home Page**  
+   ![Home](./preview-images/Client%28Website%29/1.%20home.PNG)
+
+- **Services Selection Page**
+   ![Services](./preview-images/Client%28Website%29/3.%20ServicesSelection.PNG)
+
+- **Adding More Guests**  
+   ![Guests](./preview-images/Client%28Website%29/4.%20AddMoreGuest.PNG)
+
+- **Admin side Services**
+   ![AdminServices](./preview-images/Admin%28Desktop%29/1.%20Services&Category_Admin.PNG)
+
+
+---------------------------------------------------------------
+  
+## ♟ Features & Steps ##
 
  {<--Website-->}
   - Customer Book with Multiple Services (each service's price varies).
@@ -40,28 +64,6 @@ A full-stack booking system for beauty salons with:
   - Admin can either reject or accept the appointments.
   - Activity history of each admin account is stored on the database.
   - Admin can view activity history.
-
---------------------------------------------------------------
-
-##  Tech Stack  ##
-- Laravel 12 + PostgreSQL
-- Vue 3 + Pinia + VueRouter
-- Tauri (Rust + JS)
-
---------------------------------------------------------------
-## Screenshots ##
-View all Screenshots at  `/preview-images`
-- **Home Page**  
-   ![Home](./preview-images/Client%28Website%29/1.%20home.PNG)
-
-- **Services Selection Page**
-   ![Services](./preview-images/Client%28Website%29/3.%20ServicesSelection.PNG)
-
-- **Adding More Guests**  
-   ![Guests](./preview-images/Client%28Website%29/4.%20AddMoreGuest.PNG)
-
-- **Admin side Services**
-   ![AdminServices](./preview-images/Admin%28Desktop%29/1.%20Services&Category_Admin.PNG)
 
 ## ⚡ Accessing The Full Source Code
 
