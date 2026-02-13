@@ -3,6 +3,7 @@
 Beauty Salon Booking & Management System – A full-stack portfolio project I built entirely by myself, from design to database.
 Client-side(Website) and Admin-side(Desktop App).
 
+Client-Side live at: https://forsi-8ryv.onrender.com
 
 
 A full-stack booking system for beauty salons with:
@@ -65,7 +66,7 @@ View all Screenshots at  `/preview-images`
   - Activity history of each admin account is stored on the database.
   - Admin can view activity history.
 
-## ⚡ Accessing The Full Source Code
+## ⚡ Accessing The Full Source Code & Admin-Side
 
 !!!! ** Request Access for source codes ** !!!!
  - Email: ayzune.lovmusic@gmail.com
