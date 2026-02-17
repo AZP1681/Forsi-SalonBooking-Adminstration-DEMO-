@@ -4,6 +4,7 @@ Beauty Salon Booking & Management System – A full-stack portfolio project I bu
 Client-side(Website) and Admin-side(Desktop App).
 
 Client-Side live at: https://forsi-8ryv.onrender.com
+Please Request to download Admin-Side App
 
 
 A full-stack booking system for beauty salons with:
